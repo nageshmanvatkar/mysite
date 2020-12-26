@@ -227,7 +227,7 @@ background: #FFF;
 }
   #main-nav.navbar-default .dropdown-menu {
     padding: 0 20px;
-    min-width: 220px;
+    min-width: 100%;
     background-color: rgba(26, 28, 40, 0.9);
     border: 0;
     border-radius: 0;
